@@ -85,7 +85,7 @@ This project demonstrates core Python concepts including:
 3. Run the script:
 
 ```bash
-python defeat-the-evil-wizard_mini-project.py
+python evil-wizard-game-code.py
 ```
 
 4. Follow the on-screen prompts
